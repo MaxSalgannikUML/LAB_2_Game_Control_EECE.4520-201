@@ -1,3 +1,4 @@
+//Team Members: Max Salgannik, Morakat Lim, Phine Kim
 #include <MPU6050.h>
 #include <Wire.h>
 
